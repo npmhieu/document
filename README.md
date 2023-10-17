@@ -6,8 +6,15 @@ Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, v
 [Project Manager](https://www.vietnamworks.com/project-manager-embedded-software-automotive-2-1698213-jv/)
 
 **This is bold text**
+
 _This text is italicized_
+
 _This text is italicized_
+
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
 
 > Text that is a quote
 > Text that is a quote 2
