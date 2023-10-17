@@ -11,10 +11,12 @@ _This text is italicized_
 
 _This text is italicized_
 
-1. First item
-2. Second item
-3. Third item
-4. Fourth item
+1. new item
+2. First item
+3. Second item
+4. Third item
+5. Fourth item
+6. last item
 
 > Text that is a quote
 > Text that is a quote 2
